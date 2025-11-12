@@ -1,19 +1,19 @@
 <div align="center">
 
-# 🌟 Welcome to the Matrix 🌟
+# 🌟 Hi, I'm Agybai 🌟
 
 ```
     ╔══════════════════════════════════════════════════════════════╗
-    ║  01000001 01100111 01111001 01100010 01100001 01101001      ║
+    ║    01000001 01100111 01111001 01100010 01100001 01101001     ║
     ║                                                              ║
-    ║    ░█████╗░░██████╗░██╗░░░██╗██████╗░░█████╗░██╗            ║
-    ║    ██╔══██╗██╔════╝░╚██╗░██╔╝██╔══██╗██╔══██╗██║            ║
-    ║    ███████║██║░░██╗░░╚████╔╝░██████╦╝███████║██║            ║
-    ║    ██╔══██║██║░░╚██╗░░╚██╔╝░░██╔══██╗██╔══██║██║            ║
-    ║    ██║░░██║╚██████╔╝░░░██║░░░██████╦╝██║░░██║██║            ║
-    ║    ╚═╝░░╚═╝░╚═════╝░░░░╚═╝░░░╚═════╝░╚═╝░░╚═╝╚═╝            ║
+    ║        ░█████╗░░██████╗░██╗░░░██╗██████╗░░█████╗░██╗         ║
+    ║        ██╔══██╗██╔════╝░╚██╗░██╔╝██╔══██╗██╔══██╗██║         ║
+    ║        ███████║██║░░██╗░░╚████╔╝░██████╦╝███████║██║         ║
+    ║        ██╔══██║██║░░╚██╗░░╚██╔╝░░██╔══██╗██╔══██║██║         ║
+    ║        ██║░░██║╚██████╔╝░░░██║░░░██████╦╝██║░░██║██║         ║
+    ║        ╚═╝░░╚═╝░╚═════╝░░░░╚═╝░░░╚═════╝░╚═╝░░╚═╝╚═╝         ║
     ║                                                              ║
-    ║              Full-Stack Developer | Astana, Kazakhstan       ║
+    ║          Full-Stack Developer | Astana, Kazakhstan           ║
     ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -100,7 +100,7 @@ agybai.sayHi();
 class CurrentGoals:
     def __init__(self):
         self.learning = ["Go", "Advanced ML/AI"]
-        self.building = "blinq.kz - Innovative web platform"
+        self.building = "blinq.kz - AI agent platform"
         self.exploring = ["Microservices", "Cloud Architecture", "AI Integration"]
         
     def next_milestone(self):
@@ -124,41 +124,8 @@ print(f"🎯 Next milestone: {goals.next_milestone()}")
 
 ---
 
-## 💡 Fun Facts
-
-```go
-package main
-
-import "fmt"
-
-func main() {
-    facts := []string{
-        "🌍 Based in the heart of Kazakhstan - Astana",
-        "🚀 Building the future with blinq.kz",
-        "🔄 Transitioning from mobile to full-stack mastery",
-        "🧠 AI/ML enthusiast exploring the possibilities",
-        "☕ Powered by coffee and clean code",
-    }
-    
-    for _, fact := range facts {
-        fmt.Println(fact)
-    }
-}
-```
-
----
-
 <div align="center">
 
-### 🎮 Matrix Quote
-*"There is no spoon... only clean, scalable code!"*
-
-```
-    ╔═══════════════════════════════════════════════════════════╗
-    ║  Thanks for visiting! Feel free to explore my repos      ║
-    ║  and don't hesitate to reach out for collaboration! 🤝   ║
-    ╚═══════════════════════════════════════════════════════════╝
-```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AGGIB&color=green&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/AGGIB?style=social)
