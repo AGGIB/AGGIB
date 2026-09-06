@@ -84,7 +84,7 @@ agybai.sayHi();
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AGGIB&theme=matrix" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AGGIB&theme=matrix" alt="GitHub Streak" />
 </div>
 
 ---
@@ -130,5 +130,5 @@ print(f"🎯 Next milestone: {goals.next_milestone()}")
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AGGIB/AGGIB/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
