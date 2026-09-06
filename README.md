@@ -15,14 +15,31 @@
 
 <br/>
 
-### Stack
+<div align="center">
 
-| | |
-|:--|:--|
-| Frontend | <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=F5A524" alt="Next.js" /> <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=F5A524" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F5A524" alt="TypeScript" /> <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=F5A524" alt="Tailwind CSS" /> |
-| Backend | <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=F5A524" alt="Node.js" /> <img src="https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=F5A524" alt="NestJS" /> <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=F5A524" alt="Go" /> <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=F5A524" alt="Python" /> |
-| Mobile | <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=F5A524" alt="Flutter" /> <img src="https://img.shields.io/badge/Swift-0D1117?style=flat-square&logo=swift&logoColor=F5A524" alt="Swift" /> |
-| Data & infra | <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=F5A524" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=F5A524" alt="Supabase" /> <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=F5A524" alt="Docker" /> <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=F5A524" alt="GitHub Actions" /> |
+<img src="https://img.shields.io/badge/frontend-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0Y1QTUyNCIvPjwvc3ZnPg%3D%3D" alt="frontend" />
+<img src="https://img.shields.io/badge/Next%2Ejs-0D1117?style=flat-square&logo=nextdotjs&logoColor=F5A524" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=F5A524" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F5A524" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=F5A524" alt="Tailwind" />
+<br/>
+<img src="https://img.shields.io/badge/backend-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0Y1QTUyNCIvPjwvc3ZnPg%3D%3D" alt="backend" />
+<img src="https://img.shields.io/badge/Node%2Ejs-0D1117?style=flat-square&logo=nodedotjs&logoColor=F5A524" alt="Node.js" />
+<img src="https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=F5A524" alt="NestJS" />
+<img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=F5A524" alt="Go" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=F5A524" alt="Python" />
+<br/>
+<img src="https://img.shields.io/badge/mobile-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0Y1QTUyNCIvPjwvc3ZnPg%3D%3D" alt="mobile" />
+<img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=F5A524" alt="Flutter" />
+<img src="https://img.shields.io/badge/Swift-0D1117?style=flat-square&logo=swift&logoColor=F5A524" alt="Swift" />
+<br/>
+<img src="https://img.shields.io/badge/infra-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0Y1QTUyNCIvPjwvc3ZnPg%3D%3D" alt="infra" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=F5A524" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=F5A524" alt="Supabase" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=F5A524" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=F5A524" alt="GitHub Actions" />
+
+</div>
 
 <br/>
 
