@@ -15,16 +15,6 @@
 
 <br/>
 
-Two years shipping web and mobile products for startups in Kazakhstan. Lately I care most about one problem: AI coding agents run with your credentials and your shell, and nothing sits between what they read and what they do next.
-
-### Now
-
-| | |
-|:--|:--|
-| **[Stroq](https://github.com/AGGIB/Stroq)** | Local action firewall for AI coding agents. Scans what the agent reads, taints the session, blocks the dangerous follow-up action. `npm i -g @stroq/cli` |
-| **[halyk-covenant](https://github.com/AGGIB/halyk-covenant)** | Covenant compliance pipeline for the Halyk AI Challenge: reads messy financial documents and decides breach / actual / evidence per covenant. 35/36 on the public set. |
-| **[notchka](https://github.com/AGGIB/notchka)** | macOS notch panel for music, clipboard, notes and pinned snippets. Swift, because the web can't reach the notch. |
-
 ### Stack
 
 | | |
