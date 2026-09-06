@@ -2,7 +2,7 @@
 
 # Agybay Gibatollayev
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1000&color=F5A524&center=true&vCenter=true&width=520&lines=full-stack+developer;building+Stroq+%E2%80%94+a+firewall+for+AI+coding+agents;Astana%2C+Kazakhstan" alt="full-stack developer · building Stroq · Astana, Kazakhstan" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1000&color=F5A524&center=true&vCenter=true&width=720&lines=full-stack+developer;building+Stroq+%E2%80%94+a+firewall+for+AI+coding+agents;Astana%2C+Kazakhstan" alt="full-stack developer · building Stroq · Astana, Kazakhstan" />
 
 <br/>
 
@@ -42,6 +42,9 @@ Two years shipping web and mobile products for startups in Kazakhstan. Lately I 
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/AGGIB/AGGIB/output/contribution-snake.svg" alt="Contribution graph" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AGGIB/AGGIB/output/contribution-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/AGGIB/AGGIB/output/contribution-snake.svg" alt="Contribution graph" width="100%" />
+</picture>
 
 </div>
