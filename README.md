@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=F5A524" alt="NestJS" />
 <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=F5A524" alt="Go" />
 <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=F5A524" alt="Python" />
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=F5A524" alt="PyTorch" />
 <br/>
 <img src="https://img.shields.io/badge/mobile-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0Y1QTUyNCIvPjwvc3ZnPg%3D%3D" alt="mobile" />
 <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=F5A524" alt="Flutter" />
